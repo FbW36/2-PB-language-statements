@@ -6,5 +6,4 @@ console.log("Hello World");
 // 3.
 // console.log ("This is my first js file");
 
-
-//Question: SyntaxError: Unexpected string 
+/* Question: SyntaxError: Unexpected string */
