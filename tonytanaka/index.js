@@ -1,7 +1,7 @@
 console.log "Hello World!";
 // console.log("This is my first js file");
 
-// 1.
+// 1. The statement does not print!
 // SyntaxError: Unexpected string
 //at Module._compile (internal/modules/cjs/loader.js:811:22)
 //at Object.Module._extensions..js (internal/modules/cjs/loader.js:879:10)
