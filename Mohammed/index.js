@@ -1,11 +1,12 @@
 // 1 & 2 
 console.log("Hello World");
 
-// 3
-console.log("This is my first js file");
+// 3 & 4
+// console.log("This is my first js file");
+
 
 // Questions: 
-// 1 & 2
+// 1 
 
 /* 
 when I execute the following line of code: 
