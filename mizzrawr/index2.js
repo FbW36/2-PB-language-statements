@@ -1,8 +1,6 @@
 console.log("Hello World");
 // console.log("This is my first jsfile");
 
-// Remove a parenthesis from the first statement and run the code. Does your statement print?
-// When removing the parenthesis , vscode is not able to run my code.
-
-//Is there an error? If so, what kind of error is it?
-//I get a very long error that states "unexpected string".
+//Q1) The statement does not print.
+//Q2) There is a syntax error. A SyntaxError is thrown when the JavaScript engine encounters tokens or token order that does not conform to the syntax of the language when parsing code.
+console.log("I'm pushing the exercise now");
